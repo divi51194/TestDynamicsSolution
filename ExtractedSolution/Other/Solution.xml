@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ImportExportXml version="9.1.0.16231" SolutionPackageVersion="9.1" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SolutionManifest>
-    <UniqueName>TestSolution</UniqueName>
+    <UniqueName>TestSolutionApp</UniqueName>
     <LocalizedNames>
       <LocalizedName description="Test Solution" languagecode="1033" />
     </LocalizedNames>
